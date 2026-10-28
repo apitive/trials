@@ -1,3 +1,3 @@
 name: i18n-chain
 conversation_mode: CONTINUE_CONVERSATION
-steps: [01-create-login-page, 02-introduce-language-en, 03-convert-pages]
+steps: [01-create-login-page, 02-introduce-language-en, 03-convert-pages, 04-i18n-trail]
